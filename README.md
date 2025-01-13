@@ -24,7 +24,7 @@ https://clck.ru/3FipNw
 ![image](https://raw.githubusercontent.com/KendrickKalmar/Feedback_form_testHH/refs/heads/main/image.png)
 
 4. Скрин автотеста
-![image](https://raw.githubusercontent.com/KendrickKalmar/ATCypressWeb/refs/heads/main/2025-01-10_21-32-29.png)
+![image](https://raw.githubusercontent.com/KendrickKalmar/Feedback_form_testHH/refs/heads/main/Au/2025-01-13_18-24-32.png)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
